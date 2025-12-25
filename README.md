@@ -3,8 +3,7 @@
 This is one of my early Data Science projects where I explored the Netflix Movies and TV Shows dataset to understand what kind of content Netflix has, how it has grown over the years, and what trends can be observed.
 The main goal of this project was to practice real-world data analysis using Python, work with a large dataset, create visualizations, and derive meaningful insights instead of just writing code.
 
-📌 What this project does
-In this project, I:
+📌 ##What this project does :
 
 ->Compared Movies vs TV Shows on Netflix
 
@@ -16,18 +15,18 @@ In this project, I:
 
 ->Analyzed the ratings to see what type of audience Netflix mainly targets
 
-🗂️ About the Dataset
+🗂️ ##About the Dataset
 I used the “Netflix Movies and TV Shows” dataset from Kaggle.
 It contains information like title, director, cast, country, release year, rating, duration, and genre.
 
-🛠️ Tools I Used
+🛠️ ##Tools I Used
 ->Python
 ->Pandas
 ->NumPy
 ->Matplotlib
 ->Seaborn
 
-📊 What I Did (Step by Step)
+📊 ##What I Did (Step by Step)
 
 ->Loaded and understood the dataset
 ->Cleaned missing values
@@ -36,7 +35,7 @@ It contains information like title, director, cast, country, release year, ratin
 ->Created meaningful graphs
 ->Wrote insights based on the results
 
-📈 Key Insights I Found
+📈 ##Key Insights I Found
 
 ->Netflix has more Movies than TV Shows
 ->Content increased massively after 2015
