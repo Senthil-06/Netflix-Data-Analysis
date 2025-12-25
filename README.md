@@ -1,4 +1,4 @@
-🎬 Netflix Data Analysis
+🎬 ##Netflix Data Analysis
 
 This is one of my early Data Science projects where I explored the Netflix Movies and TV Shows dataset to understand what kind of content Netflix has, how it has grown over the years, and what trends can be observed.
 The main goal of this project was to practice real-world data analysis using Python, work with a large dataset, create visualizations, and derive meaningful insights instead of just writing code.
